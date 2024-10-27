@@ -7,4 +7,4 @@ while index < len(numbers):
         numbers.pop(index) 
     else:
         index += 1
-        print("List after removing even numbers:", numbers)
+        print("Remaining odd numbers:", numbers)
